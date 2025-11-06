@@ -1,0 +1,17 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "user@netflix.com",
+      "password": "user123",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "email": "admin@netflix.com",
+      "password": "admin123",
+      "role": "admin"
+    }
+  ],
+  "myList": []
+}
