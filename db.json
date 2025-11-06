@@ -3,15 +3,30 @@
     {
       "id": 1,
       "email": "user@netflix.com",
-      "password": "user123",
-      "role": "user"
+      "password": "password123",
+      "role": "user",
+      "myList": [102, 105] 
     },
     {
       "id": 2,
       "email": "admin@netflix.com",
       "password": "admin123",
-      "role": "admin"
+      "role": "admin",
+      "myList": []
     }
   ],
-  "myList": []
+  "movies": [
+    {
+      "id": 101,
+      "title": "Movie 1",
+      "posterUrl": "...",
+      "videoId": "..."
+    },
+    {
+      "id": 102,
+      "title": "Movie 2",
+      "posterUrl": "...",
+      "videoId": "..."
+    }
+  ]
 }
